@@ -1,1 +1,0 @@
-pub const DEFAULT_TPU_COALESCE_MS: u64 = 5;
